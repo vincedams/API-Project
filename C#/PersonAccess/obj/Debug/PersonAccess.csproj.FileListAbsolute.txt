@@ -1,0 +1,24 @@
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\PersonAccess.dll.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\PersonAccess.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\PersonAccess.pdb
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.csproj.AssemblyReference.cache
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.csproj.CoreCompileInputs.cache
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.csproj.CopyComplete
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.pdb
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\PersonAccess.dll.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\PersonAccess.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\PersonAccess.pdb
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.csproj.AssemblyReference.cache
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.csproj.CoreCompileInputs.cache
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.csproj.CopyComplete
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\PersonAccess\obj\Debug\PersonAccess.pdb

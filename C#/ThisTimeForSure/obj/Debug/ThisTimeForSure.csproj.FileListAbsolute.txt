@@ -1,0 +1,190 @@
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\ThisTimeForSure.dll.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\ThisTimeForSure.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\ThisTimeForSure.pdb
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csc.exe
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csc.exe.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csc.rsp
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csi.exe
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csi.exe.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csi.rsp
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.AppContext.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Console.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.Compression.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Net.Http.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.ValueTuple.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\vbc.exe
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\vbc.exe.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\vbc.rsp
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\VBCSCompiler.exe
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Antlr3.Runtime.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Newtonsoft.Json.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Net.Http.Formatting.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Helpers.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.WebHost.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Mvc.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Optimization.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Razor.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Razor.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\WebGrease.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Newtonsoft.Json.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Net.Http.Formatting.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Helpers.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.WebHost.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Mvc.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Optimization.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Razor.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Razor.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Antlr3.Runtime.pdb
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.csproj.AssemblyReference.cache
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.csproj.CoreCompileInputs.cache
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.csproj.CopyComplete
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.pdb
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.SqlServer.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\PersonAccess.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\PersonAccess.pdb
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\PersonAccess.dll.config
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.SqlServer.xml
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Cors.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.Cors.dll
+C:\Users\vincentdams\source\repos\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.Cors.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\ThisTimeForSure.dll.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\ThisTimeForSure.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\ThisTimeForSure.pdb
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csc.exe
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csc.exe.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csc.rsp
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csi.exe
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csi.exe.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\csi.rsp
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.AppContext.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Console.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.Compression.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Net.Http.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.ValueTuple.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\vbc.exe
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\vbc.exe.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\vbc.rsp
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\VBCSCompiler.exe
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Antlr3.Runtime.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.SqlServer.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Newtonsoft.Json.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\PersonAccess.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Net.Http.Formatting.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Cors.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Helpers.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.Cors.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.WebHost.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Mvc.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Optimization.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Razor.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Razor.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\WebGrease.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\PersonAccess.pdb
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\PersonAccess.dll.config
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\EntityFramework.SqlServer.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.Cors.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Newtonsoft.Json.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Net.Http.Formatting.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Helpers.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Http.WebHost.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Mvc.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Optimization.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.Razor.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\System.Web.WebPages.Razor.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Antlr3.Runtime.pdb
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.csproj.AssemblyReference.cache
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.csproj.CoreCompileInputs.cache
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.csproj.CopyComplete
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.dll
+C:\Users\vincentdams\API Project\ThisTimeForSure\ThisTimeForSure\obj\Debug\ThisTimeForSure.pdb

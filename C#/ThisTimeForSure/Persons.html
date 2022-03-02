@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <title></title>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var ulPeople = $('#ulPeople');
+
+            $('#btn').click(function () {
+                $('#btn').html("Text Changed :)");
+                //$.ajax({
+                //    type: 'GET',
+                //    url: 'api/Persons',
+                //    dataType: 'json',
+                //    succes: function (data) {
+                //        ulPeople.empty();
+                //        $.each(data, function (index, val) {
+                //            var Name = val.Name;
+                //            ulPeople.append('<li>' + Name + '</li>')
+                //        });
+                //    }
+                //});
+            });
+            $('#btnClear'.click(function () {
+                ulPeople.empty();
+            }));
+        });
+    </script>
+</head>
+<body>
+    <input id="btn" type="button" value="Get all People" />
+    <input id="btnClear" type="button" value="Clear" />
+    <ul id="ulPeople"></ul>
+</body>
+</html>
